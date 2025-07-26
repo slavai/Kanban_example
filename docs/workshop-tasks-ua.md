@@ -373,7 +373,7 @@
   
   [![Почати](https://img.shields.io/badge/🚀-Почати_Воркшоп-blue?style=for-the-badge&color=3b82f6)](#рівень-1-початковий-)
   [![Документація](https://img.shields.io/badge/📚-Документація-green?style=for-the-badge&color=10b981)](../README.md)
-  [![Зворотний зв'язок](https://img.shields.io/badge/💬-Зворотний_зв'язок-orange?style=for-the-badge&color=f59e0b)](https://github.com/slavai/canban_example/discussions)
+  [![Зворотний зв'язок](https://img.shields.io/badge/💬-Зворотний_зв'язок-orange?style=for-the-badge&color=f59e0b)](https://github.com/slavai/Kanban_example/discussions)
   
   <p><strong>Створено з ❤️ для української спільноти розробників</strong></p>
   <p>🌟 Успіхів у навчанні!</p>

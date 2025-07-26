@@ -14,7 +14,7 @@
   
   **Повнофункціональна Kanban дошка, створена з використанням найкращих практик веб-розробки**
   
-  • [📚 Документація](./docs) • [🎯 Тестові завдання](./docs/workshop-tasks-ua.md) • [🎥 Video Guidelines](./docs/video-guidelines.md) • [🐛 Звіти про баги](https://github.com/slavai/canban_example/issues)
+  • [📚 Документація](./docs) • [🎯 Тестові завдання](./docs/workshop-tasks-ua.md) • [🎥 Video Guidelines](./docs/video-guidelines.md) • [🐛 Звіти про баги](https://github.com/slavai/Kanban_example/issues)
 </div>
 
 ---
@@ -130,8 +130,8 @@ graph TB
 
 ```bash
 # 1️⃣ Клонування репозиторію
-git clone https://github.com/slavai/canban_example.git
-cd canban_example
+git clone https://github.com/slavai/Kanban_example.git
+cd Kanban_example
 
 # 2️⃣ Встановлення залежностей
 pnpm install
@@ -497,7 +497,7 @@ Start by making those two planning docs.
   <h2>🚀 Ready to Start Building?</h2>
   
   [![Get Started](https://img.shields.io/badge/🎯-Почати_Роботу-blue?style=for-the-badge&color=3b82f6)](./docs/workshop-tasks-ua.md)
-  [![Fork Project](https://img.shields.io/badge/🍴-Fork_Проект-orange?style=for-the-badge&color=f59e0b)](https://github.com/slavai/canban_example/fork)
+  [![Fork Project](https://img.shields.io/badge/🍴-Fork_Проект-orange?style=for-the-badge&color=f59e0b)](https://github.com/slavai/Kanban_example/fork)
   
   <p><strong>Створений з ❤️ </strong></p>
 </div>
