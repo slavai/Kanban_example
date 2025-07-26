@@ -9,7 +9,7 @@
 <div align="center">
 
   <video 
-    src="https://github.com/user-attachments/assets/70694629-9e64-41b9-a6e7-98719d61e45f" 
+    src="./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4" 
     title="Kanban Board Preview" 
     width="800" 
     controls 
@@ -19,7 +19,7 @@
     preload="metadata"
     style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
   >
-    <p>Ваш браузер не підтримує відтворення відео. <a href="https://github.com/user-attachments/assets/70694629-9e64-41b9-a6e7-98719d61e45f">Переглянути відео</a></p>
+    <p>Ваш браузер не підтримує відтворення відео. <a href="./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4">Переглянути відео</a></p>
   </video>
   
   **Повнофункціональна Kanban дошка, створена з використанням найкращих практик веб-розробки**
