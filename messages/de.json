@@ -1,0 +1,46 @@
+{
+  "common": {
+    "add": "Hinzufügen",
+    "edit": "Bearbeiten", 
+    "delete": "Löschen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "loading": "Laden...",
+    "error": "Fehler"
+  },
+  "board": {
+    "title": "Kanban Board",
+    "addTask": "Aufgabe hinzufügen",
+    "addColumn": "Spalte hinzufügen",
+    "searchTasks": "Aufgaben suchen...",
+    "noTasks": "Noch keine Aufgaben. Erstellen Sie Ihre erste Aufgabe!"
+  },
+  "task": {
+    "title": "Titel",
+    "description": "Beschreibung",
+    "priority": "Priorität",
+    "status": "Status",
+    "dueDate": "Fälligkeitsdatum",
+    "createdAt": "Erstellt",
+    "updatedAt": "Aktualisiert",
+    "deleteConfirm": "Sind Sie sicher, dass Sie diese Aufgabe löschen möchten?"
+  },
+  "priority": {
+    "low": "Niedrig",
+    "medium": "Mittel", 
+    "high": "Hoch",
+    "urgent": "Dringend"
+  },
+  "status": {
+    "todo": "Zu erledigen",
+    "in-progress": "In Bearbeitung",
+    "done": "Erledigt"
+  },
+  "validation": {
+    "required": "Dieses Feld ist erforderlich",
+    "titleTooShort": "Der Titel muss mindestens 3 Zeichen lang sein",
+    "titleTooLong": "Der Titel muss weniger als 100 Zeichen lang sein"
+  }
+} 
