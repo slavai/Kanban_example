@@ -7,7 +7,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/slavai/canban_example/main/public/demo-preview.png" alt="Kanban Board Preview" width="800"/>
+
+  <video 
+    src="https://github.com/user-attachments/assets/70694629-9e64-41b9-a6e7-98719d61e45f" 
+    title="Kanban Board Preview" 
+    width="800" 
+    controls 
+    muted 
+    autoplay 
+    loop 
+    preload="metadata"
+    style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
+  >
+    <p>Ваш браузер не підтримує відтворення відео. <a href="https://github.com/user-attachments/assets/70694629-9e64-41b9-a6e7-98719d61e45f">Переглянути відео</a></p>
+  </video>
   
   **Повнофункціональна Kanban дошка, створена з використанням найкращих практик веб-розробки**
   
@@ -496,6 +509,5 @@ Start by making those two planning docs.
   [![Get Started](https://img.shields.io/badge/🎯-Почати_Роботу-blue?style=for-the-badge&color=3b82f6)](./docs/workshop-tasks-ua.md)
   [![Fork Project](https://img.shields.io/badge/🍴-Fork_Проект-orange?style=for-the-badge&color=f59e0b)](https://github.com/slavai/canban_example/fork)
   
-  <p><strong>Створений з ❤️ для спільноти розробників</strong></p>
-  <p>⭐ Якщо проект був корисним, поставте зірочку!</p>
+  <p><strong>Створений з ❤️ </strong></p>
 </div>
