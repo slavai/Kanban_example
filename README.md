@@ -8,19 +8,9 @@
 
 <div align="center">
 
-  <video 
-    src="./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4" 
-    title="Kanban Board Preview" 
-    width="800" 
-    controls 
-    muted 
-    autoplay 
-    loop 
-    preload="metadata"
-    style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
-  >
-    <p>Ваш браузер не підтримує відтворення відео. <a href="./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4">Переглянути відео</a></p>
-  </video>
+  ![Kanban Board Demo](./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4)
+  
+  **[🎥 Переглянути повне відео](./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4)**
   
   **Повнофункціональна Kanban дошка, створена з використанням найкращих практик веб-розробки**
   
