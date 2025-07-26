@@ -8,13 +8,13 @@
 
 <div align="center">
 
-  ![Kanban Board Demo](./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4)
+  ![Kanban Board Demo](./demo/kanban-demo-small.gif)
   
   **[🎥 Переглянути повне відео](./demo/Screen-Recording-2025-07-27-at-02.07.02.mp4)**
   
   **Повнофункціональна Kanban дошка, створена з використанням найкращих практик веб-розробки**
   
-  • [📚 Документація](./docs) • [🎯 Тестові завдання](./docs/workshop-tasks-ua.md) • [🐛 Звіти про баги](https://github.com/slavai/canban_example/issues)
+  • [📚 Документація](./docs) • [🎯 Тестові завдання](./docs/workshop-tasks-ua.md) • [🎥 Video Guidelines](./docs/video-guidelines.md) • [🐛 Звіти про баги](https://github.com/slavai/canban_example/issues)
 </div>
 
 ---

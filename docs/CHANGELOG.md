@@ -2,6 +2,17 @@
 
 All notable changes to the Kanban Board project will be documented in this file.
 
+## [1.0.1] - 2024-12-XX - 🎥 VIDEO FIX
+
+### 🐛 Bug Fixes
+- **GitHub Video Display**: Fixed video display issue in README by converting to GIF format
+- **README Optimization**: Replaced HTML video tag with optimized GIF for better GitHub compatibility
+- **File Size Optimization**: Created multiple GIF versions with different quality/size trade-offs
+
+### 📝 Documentation
+- **Video Guidelines**: Added documentation about proper video handling in GitHub README files
+- **Git Attributes**: Updated .gitattributes for proper binary file handling
+
 ## [1.0.0] - 2024-12-XX - 🎉 INITIAL RELEASE
 
 ### 🎯 Core Features
